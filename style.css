@@ -1,0 +1,69 @@
+html {
+    margin-left: auto;
+    margin-right: auto;
+    width: 600px;
+    background: url("images/background.jpg") no-repeat center fixed;
+    background-size: cover;
+    font-family: 'Montserrat', sans-serif;
+}
+
+body {
+    padding: 10px 0px;
+    text-align: center;
+}
+
+div.Login {
+    background-color: rgba(255, 255, 255, 0.8);
+    border: 1px solid purple;
+    border-radius: 25px;
+    padding: 0px 0px 20px 0px;
+
+}
+
+img.logo {
+    width: 400px;
+    padding: 10px 80px;
+}
+
+div.login-info {
+    background-color: purple;
+    padding: 0px 0px 30px 0px;
+}
+
+p {
+    color: white;
+}
+
+button {
+    padding: 5px 20px;
+    color: white;
+    background-color: green;
+    font-size: 20px;
+}
+
+hr {
+    width: 50%;
+}
+
+
+a.forgot_pass {
+    font-family: 'Georgia';
+    font-style: italic;
+    color: white;
+    text-decoration: none;
+}
+
+a.forgot_pass:hover {
+    color: yellow;
+    text-decoration: underline;
+}
+
+img.media {
+    height: 50px;
+    width: 50px;
+    margin-left: 10px;
+}
+
+div.social_media {
+    padding: 10px 0px;
+}
